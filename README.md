@@ -87,18 +87,18 @@ No other dependencies. No Expo-specific APIs.
 ```
 TextAnimationLab/
 ├── animations/
-│   ├── softFade.tsx          # 195 lines
-│   ├── lineSlide.tsx         # 163 lines
-│   ├── scaleFade.tsx         # 163 lines
-│   ├── blurReveal.tsx        # 176 lines
-│   ├── splitTiming.tsx       # 177 lines
-│   ├── skewPop.tsx           # 209 lines
-│   ├── wordShimmer.tsx       # 210 lines
-│   ├── letterShimmer.tsx     # 221 lines
-│   ├── slamIn.tsx            # 162 lines
-│   ├── rapidFire.tsx         # 154 lines
-│   ├── elasticSnap.tsx       # 165 lines
-│   └── typewriter.tsx        # 154 lines
+│   ├── softFade.tsx          # 194 lines
+│   ├── lineSlide.tsx         # 162 lines
+│   ├── scaleFade.tsx         # 162 lines
+│   ├── blurReveal.tsx        # 175 lines
+│   ├── splitTiming.tsx       # 176 lines
+│   ├── skewPop.tsx           # 208 lines
+│   ├── wordShimmer.tsx       # 209 lines
+│   ├── letterShimmer.tsx     # 220 lines
+│   ├── slamIn.tsx            # 161 lines
+│   ├── rapidFire.tsx         # 153 lines
+│   ├── elasticSnap.tsx       # 164 lines
+│   └── typewriter.tsx        # 153 lines
 ├── App.tsx                    # Showcase app
 ├── package.json
 └── ...

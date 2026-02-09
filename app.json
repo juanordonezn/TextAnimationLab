@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "TextAnimationLab",
+    "slug": "text-animation-lab",
+    "version": "1.0.0",
+    "scheme": "textanimationlab",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FFFFFF",
+    "ios": {
+      "bundleIdentifier": "com.textanimationlab",
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    }
+  }
+}

@@ -41,10 +41,11 @@ That's it. Each file is fully self-contained.
 ### Run the showcase app
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TextAnimationLab.git
+git clone https://github.com/juanordonezn/TextAnimationLab.git
 cd TextAnimationLab
 npm install
-npx expo run:ios
+npx expo run:ios          # iOS (requires macOS + Xcode)
+npx expo run:android      # Android (requires Android Studio)
 ```
 
 ## Props
